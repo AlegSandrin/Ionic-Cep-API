@@ -7,4 +7,4 @@ Curso: 2ºAno - Desenvolvimento de Sistemas.
 
 Framework: Ionic - Angular.
 <br>
-APIs: ViaCEP.
+APIs: ViaCEP, Google Maps
